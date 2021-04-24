@@ -1,0 +1,7 @@
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\AsyncSocketChat\AsyncSocketChatClient\bin\Debug\AsyncSocketChatClient.exe.config
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\AsyncSocketChat\AsyncSocketChatClient\bin\Debug\AsyncSocketChatClient.exe
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\AsyncSocketChat\AsyncSocketChatClient\bin\Debug\AsyncSocketChatClient.pdb
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\AsyncSocketChat\AsyncSocketChatClient\obj\Debug\AsyncSocketChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\AsyncSocketChat\AsyncSocketChatClient\obj\Debug\AsyncSocketChatClient.exe
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\AsyncSocketChat\AsyncSocketChatClient\obj\Debug\AsyncSocketChatClient.pdb
+C:\Users\Denis\Desktop\WPF Lessons\Lesson 6 (Socket)\AsyncSocketChat\AsyncSocketChatClient\obj\Debug\AsyncSocketChatClient.csprojAssemblyReference.cache
